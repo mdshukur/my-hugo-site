@@ -1,3 +1,5 @@
-baseURL = "https://mdshukur.github.io/my-hugo-site"
+baseURL = "https://mdshukur.github.io/my-hugo-site/"
+[permalinks]
+  posts = "/posts/:slug/"
 languageCode = "en-us"
 title = "My Hugo Site"
